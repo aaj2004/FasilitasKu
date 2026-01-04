@@ -1,0 +1,7 @@
+project_id = "fntrpxymmwwcevcutwey"
+
+[functions.get-my-requests]
+verify_jwt = false
+
+[functions.get-document-url]
+verify_jwt = false
